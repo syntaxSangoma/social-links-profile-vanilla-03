@@ -21,7 +21,7 @@ A clean, responsive Social Links Profile component built using vanilla HTML and 
 1. **Clone or download the repository** (or copy the project folder locally):
 
 ```bash
-git clone [<your-repo-url>](https://github.com/syntaxSangoma/social-links-profile-03)
+git clone https://github.com/syntaxSangoma/social-links-profile-vanilla-03
 cd social-links-profile-03
 ```
 
